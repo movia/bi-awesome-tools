@@ -1,4 +1,4 @@
-# Awesome BI and Data Science Tools used in Movia
+# Awesome BI and Data Science Tools used by Movia
 A curated list of awesome tools used by the Movia Business Intelligence Team
 
 
