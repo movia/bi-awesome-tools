@@ -4,8 +4,8 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
 
 - ### Microsoft BI Stack
   - [Visual Studio 2017](https://my.visualstudio.com/downloads)
-    Version: 15.7.6 [Start download](https://aka.ms/AA20rf2)
-    Link to [other ealier versions] (https://docs.microsoft.com/en-us/visualstudio/productinfo/installing-an-earlier-release-of-vs2017)
+    Version: 15.7.6 [[Download](https://aka.ms/AA20rf2)
+    | [Ealier releases](https://docs.microsoft.com/en-us/visualstudio/productinfo/installing-an-earlier-release-of-vs2017)]
   - [SQL Server Data Tools (SSDT) for Visual Studio 2017](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt#ssdt-for-vs-2017-standalone-installer)
     Tool for building Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. Version: [15.7.0](https://go.microsoft.com/fwlink/?LinkId=874716)
   - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
