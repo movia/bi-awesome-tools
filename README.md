@@ -20,6 +20,8 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
   - [RedGate SQL Developer Bundle](https://www.red-gate.com/products/) Bundle with different productivity tools from RedGate. Most notable: SQL Compare, SQL Data Compare, SQL Prompt.
     Version: [Log in to download right version](https://download.red-gate.com/SQLDeveloperBundle.exe)
   - [TabularEditor](https://tabulareditor.github.io/) A lightweight editor for SSAS Tabular Models built in .NET/WinForms.
+  - Azure Data Studio
+  Version: 1.2.4[ [Download](https://go.microsoft.com/fwlink/?linkid=2038320).
   
 - ### PowerShell
   - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases/tag/v6.1.0) Version: 6.1.0
@@ -32,5 +34,3 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
   - [Sublime Text](https://www.sublimetext.com/3) A sophisticated text editor for code, markup and prose.
   - [WinSCP](https://winscp.net/) SFTP/SCP and FTP(S) client for Windows
   - [7zip](https://www.7-zip.org/) Free and open-source file archiver used to zip/unzip compressed containers.
-
-  
