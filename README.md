@@ -14,7 +14,7 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
     Use SQL Server Management Studio (SSMS) to query, design, and manage your databases and data warehouses, wherever they are - on your local computer, or in the cloud.   
     Version: 17.9
   - Azure Data Studio
-    Version: 1.2.4 [ [Download](https://go.microsoft.com/fwlink/?linkid=2038320) ]
+    Version: Always latest [ [Download](https://docs.microsoft.com/en-us/sql/azure-data-studio/download) ]
   - [PowerBI Desktop (Cloud)](https://powerbi.microsoft.com/en-us/downloads/)
     Desktop Client for Power BI Cloud.
     Version: Always latest
