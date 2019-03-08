@@ -4,15 +4,15 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
 
 - ### Microsoft BI Stack
   - [Visual Studio 2017](https://visualstudio.microsoft.com/)
-    Version: 15.8.9 [ [Download](https://aka.ms/AA369qm)
+    Version: 15.9.8 [ [Download](https://visualstudio.microsoft.com/downloads/)
     | [Ealier releases](https://docs.microsoft.com/en-us/visualstudio/productinfo/installing-an-earlier-release-of-vs2017) ]
   - [SQL Server Data Tools (SSDT) for Visual Studio 2017](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt#ssdt-for-vs-2017-standalone-installer)
-    Version:  15.8.2 [ [Download](https://go.microsoft.com/fwlink/?linkid=2038031) 
+    Version:  15.9.0 [ [Download](https://go.microsoft.com/fwlink/?linkid=2052454) 
     | [Ealier releases](https://docs.microsoft.com/en-us/sql/ssdt/previous-releases-of-sql-server-data-tools-ssdt-and-ssdt-bi?view=sql-server-2017) ]
     Tool for building Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. 
   - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
     Use SQL Server Management Studio (SSMS) to query, design, and manage your databases and data warehouses, wherever they are - on your local computer, or in the cloud.   
-    Version: 17.9
+    Version: 17.9.1
   - Azure Data Studio
     Version: Always latest [ [Download](https://docs.microsoft.com/en-us/sql/azure-data-studio/download) ]
   - [PowerBI Desktop (Cloud)](https://powerbi.microsoft.com/en-us/downloads/)
@@ -23,8 +23,7 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
     Version: [January 2019](https://www.microsoft.com/en-us/download/details.aspx?id=55329)
   - [RedGate SQL Developer Bundle](https://www.red-gate.com/products/) Bundle with different productivity tools from RedGate. Most notable: SQL Compare, SQL Data Compare, SQL Prompt.
     Version: [Log in to download right version](https://download.red-gate.com/SQLDeveloperBundle.exe)
-  - [TabularEditor](https://tabulareditor.github.io/) A lightweight editor for SSAS Tabular Models built in .NET/WinForms.
-  
+  - [TabularEditor](https://tabulareditor.github.io/) A lightweight editor for SSAS Tabular Models built in .NET/WinForms.  
   
 - ### PowerShell
   - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases/tag/v6.1.0) Version: 6.1.0
