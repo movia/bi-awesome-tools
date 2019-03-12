@@ -35,5 +35,6 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
 - ### Utilities
   - [Visual Studio Code](https://code.visualstudio.com/) Combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. 
   - [Sublime Text](https://www.sublimetext.com/3) A sophisticated text editor for code, markup and prose.
+  - [GitHub Desktio](https://desktop.github.com/) Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize.
   - [WinSCP](https://winscp.net/) SFTP/SCP and FTP(S) client for Windows
   - [7zip](https://www.7-zip.org/) Free and open-source file archiver used to zip/unzip compressed containers.
