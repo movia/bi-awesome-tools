@@ -12,7 +12,7 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
     Tool for building Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. 
   - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
     Use SQL Server Management Studio (SSMS) to query, design, and manage your databases and data warehouses, wherever they are - on your local computer, or in the cloud.   
-    Version: 17.9.1
+    Version: 18.0
   - Azure Data Studio
     Version: Always latest [ [Download](https://docs.microsoft.com/en-us/sql/azure-data-studio/download) ]
   - [PowerBI Desktop (Cloud)](https://powerbi.microsoft.com/en-us/downloads/)
