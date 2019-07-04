@@ -37,9 +37,15 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
   - [Invoke-MsBuild](https://github.com/deadlydog/Invoke-MsBuild) PowerShell module to make building projects and solutions with MsBuild easy.
   - [PowerShell](https://www.microsoft.com/en-us/download/details.aspx?id=54616) (Windows Management Framework 5.1)
   
+  Remember to allow scripts to execute by executing the following statement from an elevated PowerShell prompt (e.g. *Run as administrator*)
+  ```powershell
+  Set-ExecutionPolicy Unrestricted
+  ```
+  
 - ### Utilities
   - [Visual Studio Code](https://code.visualstudio.com/) Combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. 
   - [Sublime Text](https://www.sublimetext.com/3) A sophisticated text editor for code, markup and prose.
   - [GitHub Desktop](https://desktop.github.com/) Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize.
   - [WinSCP](https://winscp.net/) SFTP/SCP and FTP(S) client for Windows
   - [7zip](https://www.7-zip.org/) Free and open-source file archiver used to zip/unzip compressed containers.
+  - [Nuget](https://www.nuget.org/downloads) NuGet is a free and open-source package manager designed for the Microsoft development platform. We use this for maintaining dependencies for e.g. SSIS Script Tasks. Version: Always recommended latest
