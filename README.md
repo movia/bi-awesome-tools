@@ -12,7 +12,9 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
     Tool for building Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. 
   - Microsoft Access Database Engine 2016 Redistributable
     Version:  RTM
-    Click here and then download again and choose 32 bit (64 bit has to be aggreed by  NCP) [[Download](https://www.microsoft.com/en-us/download/details.aspx?id=54920)]
+    
+    [[Download](https://www.microsoft.com/en-us/download/details.aspx?id=54920)] and choose 32 bit or 64 bit depending on MS office version.
+    
     Use Microsoft Access Database Engine when connections in SSIS-package has to be made to Excel files or other MS Office products.
 
  - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
