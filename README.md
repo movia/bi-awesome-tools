@@ -56,3 +56,4 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
   - [GitHub Desktop](https://desktop.github.com/) Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize.
   - [WinSCP](https://winscp.net/) SFTP/SCP and FTP(S) client for Windows
   - [7zip](https://www.7-zip.org/) Free and open-source file archiver used to zip/unzip compressed containers.
+  - [Nuget](https://www.nuget.org/downloads) NuGet is a free and open-source package manager designed for the Microsoft development platform. We use this for maintaining dependencies for e.g. SSIS Script Tasks. Version: Always recommended latest
