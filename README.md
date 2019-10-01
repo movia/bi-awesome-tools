@@ -14,7 +14,7 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
     Version:  RTM [[Download](https://www.microsoft.com/en-us/download/details.aspx?id=54920)] and choose 32 bit or 64 bit depending on MS office version.    
     
     Use Microsoft Access Database Engine when connections in SSIS-package has to be made to Excel files or other MS Office products.
- - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+  - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
     Use SQL Server Management Studio (SSMS) to query, design, and manage your databases and data warehouses, wherever they are - on your local computer, or in the cloud.   
     Version: 18.3
   - Azure Data Studio
