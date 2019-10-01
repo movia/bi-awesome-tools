@@ -30,7 +30,7 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
   - [TabularEditor](https://tabulareditor.github.io/) A lightweight editor for SSAS Tabular Models built in .NET/WinForms.  
   
 - ### PowerShell
-  - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases/tag/v6.1.0) Version: 6.1.0
+  - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases/tag/v6.2.3) Version: 6.2.3
   - [Posh-Git](https://github.com/dahlbyk/posh-git)
     PowerShell module that integrates Git and PowerShell by providing Git status summary information that can be displayed in the PowerShell prompt
   - [Invoke-MsBuild](https://github.com/deadlydog/Invoke-MsBuild) PowerShell module to make building projects and solutions with MsBuild easy.
