@@ -10,10 +10,10 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
     Version:  15.9.0 
     
     Tool for building Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. With Visual Studio 2019, the required functionality to enable Analysis Services, Integration Services, and Reporting Services projects has moved into the respective Visual Studio extensions. The core SSDT functionality to create Database Projects has remained integral to Visual Studio (you need to select the Data storage, and processing workload during install). There's no more standalone SSDT installation required.        
-  - Microsoft Access Database Engine 2016 Redistributable
-    Version:  RTM [[Download](https://www.microsoft.com/en-us/download/details.aspx?id=54920)] and choose 32 bit or 64 bit depending on MS office version.    
+  - [Microsoft Access Database Engine 2016 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=54920)
+    Version: RTM [[Download](https://www.microsoft.com/en-us/download/details.aspx?id=54920)]
     
-    Use Microsoft Access Database Engine when connections in SSIS-package has to be made to Excel files or other MS Office products.
+    Use Microsoft Access Database Engine when connections in SSIS-package has to be made to Excel files or other MS Office products. Choose 32 bit or 64 bit depending on MS office version.
   - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
     Use SQL Server Management Studio (SSMS) to query, design, and manage your databases and data warehouses, wherever they are - on your local computer, or in the cloud.   
     Version: 18.3
