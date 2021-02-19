@@ -4,7 +4,7 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
 
 - ### Microsoft BI Stack
   - [Visual Studio 2019](https://visualstudio.microsoft.com/)
-    Version: 16.3.1 [ [Download](https://visualstudio.microsoft.com/downloads/)
+    Version: 16.7.6 [ [Download](https://visualstudio.microsoft.com/downloads/)
     | [Ealier releases](https://docs.microsoft.com/en-us/visualstudio/releases/2019/history) ]
     
   - [SQL Server Data Tools (SSDT) for Visual Studio 2019](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt)
@@ -46,8 +46,10 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
   ```
   
 - ### Utilities
-  - [Visual Studio Code](https://code.visualstudio.com/) Combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. 
-  - [Sublime Text](https://www.sublimetext.com/3) A sophisticated text editor for code, markup and prose.
+  - [Visual Studio Code](https://code.visualstudio.com/) Combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Popular extensions:
+    - [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) An Azure Functions extension for Visual Studio Code
+    - [Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) Manage your Azure Storage accounts including Blob Containers, File Shares, Tables and Queues
+    - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) Linting, Debugging (multi-threaded, remote), Intellisense, Jupyter Notebooks, code formatting, refactoring, unit tests, and more.
   - [GitHub Desktop](https://desktop.github.com/) Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize.
   - [WinSCP](https://winscp.net/) SFTP/SCP and FTP(S) client for Windows. Remember to add WinSCP to PATH during installation.
   - [7zip](https://www.7-zip.org/) Free and open-source file archiver used to zip/unzip compressed containers.
