@@ -4,8 +4,8 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
 
 - ### Microsoft BI Stack
   - [Visual Studio Professional 2019](https://visualstudio.microsoft.com/)
-    Version: 16.7.6 [ [Download](https://visualstudio.microsoft.com/downloads/) It is very important that you install the Professional edition as SSIS and other projects are not suported in the other editione, e.g. Community Edition.
-    | [Ealier releases](https://docs.microsoft.com/en-us/visualstudio/releases/2019/history) ]
+    Version: 16.7.6 [ [Download](https://visualstudio.microsoft.com/downloads/)| [Ealier releases](https://docs.microsoft.com/en-us/visualstudio/releases/2019/history) ] It is **very important** that you install the **Professional Edition** as SSIS and other projects are not suported in the other editione, e.g. Community Edition.
+    
     Popular extensions:
     - [Integration Services Projects](https://marketplace.visualstudio.com/items?itemName=SSIS.SqlServerIntegrationServicesProjects) Allows for building high performance data integration and workflow solutions, including extraction, transformation, and loading (ETL) operations for data warehousing. Currently the supported target server version starts from SQL Server 2012 up to 2019.
     - [Analysis Services Projects](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftAnalysisServicesModelingProjects) Allows for building professional data models hosted in SQL Server Analysis Services on-premises, Microsoft Azure Analysis Services, and Microsoft Power BI.
