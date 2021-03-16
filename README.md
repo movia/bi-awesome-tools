@@ -4,7 +4,7 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
 
 - ### Microsoft BI Stack
   - [Visual Studio Professional 2019](https://visualstudio.microsoft.com/)
-    Version: 16.7.6 [ [Download](https://visualstudio.microsoft.com/downloads/)| [Ealier releases](https://docs.microsoft.com/en-us/visualstudio/releases/2019/history) ] It is **very important** that you install the **Professional Edition** as SSIS and other projects are not suported in the other editions, e.g. Community Edition.
+    Version: 16.7.6 [ [Download](https://visualstudio.microsoft.com/downloads/) | [Ealier releases](https://docs.microsoft.com/en-us/visualstudio/releases/2019/history) ] It is **very important** that you install the **Professional Edition** as SSIS and other projects are not suported in the other editions, e.g. Community Edition.
     
     Popular extensions:
     - [Integration Services Projects](https://marketplace.visualstudio.com/items?itemName=SSIS.SqlServerIntegrationServicesProjects) Allows for building high performance data integration and workflow solutions, including extraction, transformation, and loading (ETL) operations for data warehousing. Currently the supported target server version starts from SQL Server 2012 up to 2019.
@@ -30,11 +30,12 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
   - [TabularEditor](https://tabulareditor.github.io/) A lightweight editor for SSAS Tabular Models built in .NET/WinForms.  
   
 - ### PowerShell
-  - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases/latest) Version: latest
+  - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases/latest) Version: latest -
+  - [Windows Terminal](https://github.com/microsoft/terminal#via-github) Version: latest
+    The Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL. Its main features include multiple tabs, panes, Unicode and UTF-8 character support, a GPU accelerated text rendering engine, and custom themes, styles, and configurations. As the Windows store is blocked by IT you will need to install it using the *via guthub install method*.
   - [Posh-Git](https://github.com/dahlbyk/posh-git)
     PowerShell module that integrates Git and PowerShell by providing Git status summary information that can be displayed in the PowerShell prompt
   - [Invoke-MsBuild](https://github.com/deadlydog/Invoke-MsBuild) PowerShell module to make building projects and solutions with MsBuild easy.
-  - [PowerShell](https://www.microsoft.com/en-us/download/details.aspx?id=54616) (Windows Management Framework 5.1)
   
   Remember to allow scripts to execute by executing the following statement from an elevated PowerShell prompt (e.g. *Run as administrator*)
   ```powershell
