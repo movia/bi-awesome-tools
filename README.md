@@ -30,8 +30,9 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
   - [TabularEditor](https://tabulareditor.github.io/) A lightweight editor for SSAS Tabular Models built in .NET/WinForms.  
   
 - ### PowerShell
-  - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases/latest) Version: latest -
-  - [Windows Terminal](https://github.com/microsoft/terminal#via-github) Version: latest
+  - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases/latest) Version: latest - 
+    PowerShell Core is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
+  - [Windows Terminal](https://github.com/microsoft/terminal#via-github) Version: latest -
     The Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL. Its main features include multiple tabs, panes, Unicode and UTF-8 character support, a GPU accelerated text rendering engine, and custom themes, styles, and configurations. As the Windows store is blocked by IT you will need to install it using the *via guthub install method*.
   - [Posh-Git](https://github.com/dahlbyk/posh-git)
     PowerShell module that integrates Git and PowerShell by providing Git status summary information that can be displayed in the PowerShell prompt
