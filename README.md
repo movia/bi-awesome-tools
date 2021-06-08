@@ -24,7 +24,7 @@ A curated list of awesome tools used by the Movia Business Intelligence Team
     Version: Always latest
   - [PowerBI Desktop for Power BI Reporting Service (On-Prem)](https://powerbi.microsoft.com/en-us/report-server/)
     Desktop Client for Power BI Report Server.
-    Version: [January 2020](https://www.microsoft.com/en-us/download/details.aspx?id=55329)
+    Version: [May 2021](https://www.microsoft.com/en-us/download/details.aspx?id=56722)
   - [RedGate SQL Developer Bundle](https://www.red-gate.com/products/) Bundle with different productivity tools from RedGate. Most notable: SQL Compare, SQL Data Compare, SQL Prompt.
     Version: [Log in to download right version](https://download.red-gate.com/SQLDeveloperBundle.exe)
   - [Microsoft Access Database Engine 2016 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=54920)
